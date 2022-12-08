@@ -22,6 +22,16 @@
         </option>
         <option name="sbtVersion" value="1.8.0" />
       </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Day03" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Day03" />
+            <option value="$PROJECT_DIR$/Day03/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.8.0" />
+      </SbtProjectSettings>
     </option>
   </component>
 </project>
