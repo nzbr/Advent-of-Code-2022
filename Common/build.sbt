@@ -4,6 +4,6 @@ ThisBuild / scalaVersion := "3.2.1"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "Day03"
+    name := "Common",
+    idePackagePrefix := Some("de.nzbr.aoc22")
   )
-  .dependsOn(ProjectRef(uri("../Common"), "root"))

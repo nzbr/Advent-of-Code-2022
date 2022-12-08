@@ -8,7 +8,7 @@ def splitList[T](list: IterableOnce[T], delimiter: T): LazyList[LazyList[T]] = {
 }
 
 @main def day01(): Unit = {
-  val inputSrc = Source.fromFile("input/01.txt")
+  val inputSrc = Source.fromFile("Input/01.txt")
   lazy val input = inputSrc.getLines()
 
   lazy val sums =

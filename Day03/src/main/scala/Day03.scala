@@ -1,4 +1,5 @@
 import scala.io.Source
+import de.nzbr.aoc22.withFile
 
 def getPriority(s: String): Int = {
   assert(s.length == 1)
@@ -7,11 +8,7 @@ def getPriority(s: String): Int = {
   else c - 'A' + 27
 }
 
-def withInput(f: (input: Source) => Unit): Unit = {
-  lazy val input = Source.fromFile("input/03.txt")
-  try f(input)
-  finally input.close()
-}
+private def withInput = withFile("Input/03.txt")
 
 @main def day03(): Unit = {
 

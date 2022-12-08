@@ -25,7 +25,7 @@ def transformMove(game: (String, String)): (String, String) = game match {
 }
 
 @main def day02(): Unit = {
-  val input = Source.fromFile("input/02.txt")
+  val input = Source.fromFile("Input/02.txt")
 
   lazy val tuples = input
     .getLines()
