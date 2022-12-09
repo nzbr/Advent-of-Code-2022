@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="root [file:/C:/Users/nzbr/Projekte/adventofcode/Advent-of-Code-2022/Day07/]" external.linked.project.path="$MODULE_DIR$/../../Day07" external.root.project.path="$MODULE_DIR$/../../Day07" external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_19">
+    <output url="file://$MODULE_DIR$/../../Day07/target/scala-3.2.1/classes" />
+    <output-test url="file://$MODULE_DIR$/../../Day07/target/scala-3.2.1/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Day07">
+      <sourceFolder url="file://$MODULE_DIR$/../../Day07/src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Day07/src/test/scala" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Day07/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Day07/project/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.10:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala3-library_3:3.2.1:jar" level="project" />
+    <orderEntry type="module" module-name="Common" exported="" />
+  </component>
+</module>
