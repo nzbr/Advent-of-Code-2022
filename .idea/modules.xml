@@ -23,6 +23,8 @@
       <module fileurl="file://$PROJECT_DIR$/Day08/.idea/modules/Day08-build.iml" filepath="$PROJECT_DIR$/Day08/.idea/modules/Day08-build.iml" group="sbt-build-modules" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Day09.iml" filepath="$PROJECT_DIR$/.idea/modules/Day09.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day09/.idea/modules/Day09-build.iml" filepath="$PROJECT_DIR$/Day09/.idea/modules/Day09-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Day10.iml" filepath="$PROJECT_DIR$/.idea/modules/Day10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day10/.idea/modules/Day10-build.iml" filepath="$PROJECT_DIR$/Day10/.idea/modules/Day10-build.iml" group="sbt-build-modules" />
     </modules>
   </component>
 </project>
