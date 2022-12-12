@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="Common,Day01,Day02,Day03,Day04,Day05,Day06,Day07,Day08" />
+    <profile name="sbt 1" modules="Common,Day01,Day02,Day03,Day04,Day05,Day06,Day07,Day08,Day09" />
   </component>
 </project>
