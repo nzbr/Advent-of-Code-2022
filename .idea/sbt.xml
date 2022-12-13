@@ -16,6 +16,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/Day01" />
         <option name="modules">
           <set>
+            <option value="$PROJECT_DIR$/Common" />
+            <option value="$PROJECT_DIR$/Common/project" />
             <option value="$PROJECT_DIR$/Day01" />
             <option value="$PROJECT_DIR$/Day01/project" />
           </set>
@@ -124,6 +126,18 @@
             <option value="$PROJECT_DIR$/Common/project" />
             <option value="$PROJECT_DIR$/Day10" />
             <option value="$PROJECT_DIR$/Day10/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.8.0" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Day11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Common" />
+            <option value="$PROJECT_DIR$/Common/project" />
+            <option value="$PROJECT_DIR$/Day11" />
+            <option value="$PROJECT_DIR$/Day11/project" />
           </set>
         </option>
         <option name="sbtVersion" value="1.8.0" />

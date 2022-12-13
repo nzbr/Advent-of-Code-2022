@@ -1,11 +1,6 @@
 import scala.io.Source
 
-def splitList[T](list: IterableOnce[T], delimiter: T): LazyList[LazyList[T]] = {
-  list.iterator.foldLeft(LazyList(LazyList[T]())) { (acc, elem) =>
-    if (elem == delimiter) LazyList.empty #:: acc
-    else (elem #:: acc.head) #:: acc.tail
-  }
-}
+import de.nzbr.aoc22.splitList
 
 @main def day01(): Unit = {
   val inputSrc = Source.fromFile("Input/01.txt")

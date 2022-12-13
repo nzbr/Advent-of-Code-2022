@@ -6,7 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Common.iml" filepath="$PROJECT_DIR$/.idea/modules/Common.iml" />
       <module fileurl="file://$PROJECT_DIR$/Common/.idea/modules/Common-build.iml" filepath="$PROJECT_DIR$/Common/.idea/modules/Common-build.iml" group="sbt-build-modules" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Day01.iml" filepath="$PROJECT_DIR$/.idea/modules/Day01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day01/.idea/modules/Day01-build.iml" filepath="$PROJECT_DIR$/Day01/.idea/modules/Day01-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day01/.idea/modules/Day01-build.iml" filepath="$PROJECT_DIR$/Day01/.idea/modules/Day01-build.iml" group="sbt-build-modules" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Day02.iml" filepath="$PROJECT_DIR$/.idea/modules/Day02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day02/.idea/modules/Day02-build.iml" filepath="$PROJECT_DIR$/Day02/.idea/modules/Day02-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Day03.iml" filepath="$PROJECT_DIR$/.idea/modules/Day03.iml" />
@@ -25,6 +25,8 @@
       <module fileurl="file://$PROJECT_DIR$/Day09/.idea/modules/Day09-build.iml" filepath="$PROJECT_DIR$/Day09/.idea/modules/Day09-build.iml" group="sbt-build-modules" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Day10.iml" filepath="$PROJECT_DIR$/.idea/modules/Day10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day10/.idea/modules/Day10-build.iml" filepath="$PROJECT_DIR$/Day10/.idea/modules/Day10-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Day11.iml" filepath="$PROJECT_DIR$/.idea/modules/Day11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day11/.idea/modules/Day11-build.iml" filepath="$PROJECT_DIR$/Day11/.idea/modules/Day11-build.iml" group="sbt-build-modules" />
     </modules>
   </component>
 </project>

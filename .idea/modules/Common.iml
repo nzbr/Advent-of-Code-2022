@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="root [file:/C:/Users/nzbr/Projekte/adventofcode/Advent-of-Code-2022/Common/]" external.linked.project.path="$MODULE_DIR$/../../Common" external.root.project.path="$MODULE_DIR$/../../Day10" external.system.id="SBT" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="root [file:/C:/Users/nzbr/Projekte/adventofcode/Advent-of-Code-2022/Common/]" external.linked.project.path="$MODULE_DIR$/../../Common" external.root.project.path="$MODULE_DIR$/../../Day11" external.system.id="SBT" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_19">
     <output url="file://$MODULE_DIR$/../../Common/target/scala-3.2.1/classes" />
     <output-test url="file://$MODULE_DIR$/../../Common/target/scala-3.2.1/test-classes" />
